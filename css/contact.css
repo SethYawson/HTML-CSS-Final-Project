@@ -112,12 +112,12 @@
 }
 
 .text-field{
-        padding: 20px;
-        width: 100%;
-        height: 202px;
-        background-color: #D9D9D9;
-        border: none;
-    }
+    padding: 20px;
+    width: 100%;
+    height: 202px;
+    background-color: #D9D9D9;
+    border: none;
+}
 
 
 .form-icons {
@@ -125,15 +125,15 @@
     height: 24px;
     color: white;
     justify-content: center;
-    /* text-align: center; */
+    
 }
 
 .icon-cont{
-     width: 50px;
+    width: 50px;
     height: 55px;
     padding: 10px;
     background-color: #3F596C;
-    /* align-items: center; */
+    
 }
 
 
@@ -224,6 +224,4 @@ textarea::placeholder {
         display: flex;
         justify-content: space-between;
     }
-  
-
 }

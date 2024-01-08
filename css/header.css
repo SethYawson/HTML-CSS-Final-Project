@@ -157,19 +157,30 @@
 
      
 } 
+.menuitems-overlay { 
+    
+    background: rgba(0, 0, 0, 0.92);
+    position: absolute;
+    top: 0px;
+    height: 100vh;
+    width: 90%;
+    padding: 0 20px;
+    z-index: 999;
+    margin-top: 20vh;
+}
 
 .menuitems-overlay ul {
-    background-color: #fff;
+     background-color: #fff;
 
 }
 
 .menuitems-overlay a {
         text-decoration: none;
+        color: #000;
 }
 
 
 .menuitems-overlay li{
-    color: #000;
     list-style: none;
     font-size: 28px;
     padding: 10px  0px 10px 20px;

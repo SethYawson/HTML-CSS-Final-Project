@@ -1,6 +1,7 @@
 .footer-container {
     background: #0F3041;
 }
+
 .footer-section{
     display: flex;
     flex-direction: column;
@@ -49,6 +50,8 @@
     gap: 20px;
 }
 
+
+/* copyright section  */
 .copyright{
     border-top: 0.6px solid #F9F9F9;
 }
@@ -60,6 +63,7 @@
     text-align: center;
     padding: 20px;
 }
+
 
 @media (min-width:601px) {
  .footer-section {

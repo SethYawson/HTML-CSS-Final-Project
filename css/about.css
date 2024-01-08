@@ -4,6 +4,7 @@
     gap: 20px;
     padding: 20px;
 }
+
 .about img {
     display: block;
     width: 100%;
@@ -16,9 +17,7 @@
     font-size: 12px;
     font-weight: 400;
     line-height: normal;
-    padding-bottom: 5px;
-  
-            
+    padding-bottom: 5px;            
 }
 
 .about-title {
@@ -92,8 +91,7 @@
      }
 
      .list ul{
-      -webkit-column-count: 2;
-
+      column-count: 2;
 
      }
      
